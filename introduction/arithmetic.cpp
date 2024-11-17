@@ -21,4 +21,5 @@ int main(){
 
     std::cout << students << std::endl;
     std::cout << aritmetic << std::endl;
+    return 0;
 }
