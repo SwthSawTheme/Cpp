@@ -14,6 +14,16 @@ void funcName(){
     cout << "Test Using Namespace in function" << endl;
 }
 
+void funcString(){
+    using std::cout;
+    using std::endl;
+    using std::string;
+
+    string name = "Saw";
+
+    cout << name << endl;
+}
+
 int main(){
     using namespace second;
 
@@ -24,6 +34,8 @@ int main(){
     std::cout << first::x << std::endl;
     std::cout << second::x << std::endl;
     funcName();
+    std::cout << "---------------" << std::endl;
+    funcString();
 
     return 0;
 }
