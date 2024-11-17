@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ typeConversion.cpp -o bin\typeConversion
-bin\typeConversion.exe
+g++ userInput.cpp -o bin\userInput
+bin\userInput.exe
