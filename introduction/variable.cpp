@@ -22,11 +22,18 @@ int main(){
     bool power = true;
     bool forSale = true;
 
-    
+    //string objetos que representam uma sequencia de caracteres
+    std::string name = "Saw";
+    std::string movie = "It - A Coisa";
+    std::string day = "Friday";
+    std::string address = "123 Fake st.";
 
+    std::cout << "Hello" << name << std::endl;
+    std::cout << "O filme e " << movie << std::endl;
+    std::cout << "Hoje e " << day << std::endl;
+    std::cout << address << std::endl;
     std::cout << days << std::endl;
     std::cout << year << std::endl;
-
     std::cout << price << std::endl;
     std::cout << temperatue << std::endl;
     std::cout << tileset << std::endl;
