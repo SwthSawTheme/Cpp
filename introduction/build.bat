@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ userInput.cpp -o bin\userInput
-bin\userInput.exe
+g++ mathFunction.cpp -o bin\mathFunction
+bin\mathFunction.exe
