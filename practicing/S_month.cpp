@@ -1,5 +1,6 @@
 #include <iostream>
 
+// Esse seria o uso correto para esse tipo de situação!
 
 int main(){
     int month;
