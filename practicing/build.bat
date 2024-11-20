@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ calc.cpp -o bin\calc
-bin\calc.exe
+g++ ParImpar.cpp -o bin\ParImpar
+bin\ParImpar.exe
