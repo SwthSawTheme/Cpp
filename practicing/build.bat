@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ hypotenuse.cpp -o bin\hypotenuse
-bin\hypotenuse.exe
+g++ month.cpp -o bin\month
+bin\month.exe
