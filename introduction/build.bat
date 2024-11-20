@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ mathFunction.cpp -o bin\mathFunction
-bin\mathFunction.exe
+g++ ifStatements.cpp -o bin\ifStatements
+bin\ifStatements.exe
