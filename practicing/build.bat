@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ month.cpp -o bin\month
-bin\month.exe
+g++ S_month.cpp -o bin\S_month
+bin\S_month.exe
