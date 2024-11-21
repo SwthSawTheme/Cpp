@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ ternary.cpp -o bin\ternary
-bin\ternary.exe
+g++ operatorsLogic.cpp -o bin\operatorsLogic
+bin\operatorsLogic.exe
