@@ -69,6 +69,10 @@ Contém executáveis dos arquivos da pasta `practicing/`, como `calc.exe`, `hypo
    ```
    Isso compilará todos os arquivos `.cpp` e colocará os executáveis no diretório `bin/`.
 
+### Operadores em C++
+
+![Operadores](./src/operadores.png)
+
 ### Compilação Manual
 
 Para compilar arquivos individuais, use o comando:
