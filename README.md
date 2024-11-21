@@ -73,6 +73,8 @@ Contém executáveis dos arquivos da pasta `practicing/`, como `calc.exe`, `hypo
 
 ![Operadores](./src/operadores.png)
 
+![Operadores](./src/operadores2.png)
+
 ### Compilação Manual
 
 Para compilar arquivos individuais, use o comando:
