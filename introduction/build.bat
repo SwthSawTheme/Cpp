@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ operatorsLogic.cpp -o bin\operatorsLogic
-bin\operatorsLogic.exe
+g++ stringMethods.cpp -o bin\stringMethods
+bin\stringMethods.exe
