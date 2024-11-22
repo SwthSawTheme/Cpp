@@ -6,9 +6,14 @@ int main() {
     std::cout << "Digite seu nome: ";
     std::getline(std::cin,name);
 
-    name.append("@gmail.com");
+    name.insert(1,"*");
+    name.insert(0,"@");
 
-    std::cout << "Adicionado gmail ao nome " << name;
+    std::cout << ":" << name;
+
+    // name.append("@gmail.com");
+
+    // std::cout << "Adicionado gmail ao nome " << name;
 
     // if (name.empty()){
     //     std::cout << "Digite seu nome novamente!";
