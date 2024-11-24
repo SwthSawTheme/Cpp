@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ whileLoop.cpp -o bin\whileLoop
-bin\whileLoop.exe
+g++ whileCondition.cpp -o bin\whileCondition
+bin\whileCondition.exe
