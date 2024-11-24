@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ stringMethods.cpp -o bin\stringMethods
-bin\stringMethods.exe
+g++ whileLoop.cpp -o bin\whileLoop
+bin\whileLoop.exe
