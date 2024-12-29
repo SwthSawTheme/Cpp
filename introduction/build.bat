@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ src\doWhile.cpp -o bin\doWhile
-bin\doWhile.exe
+g++ src\forLoop.cpp -o bin\forLoop
+bin\forLoop.exe
