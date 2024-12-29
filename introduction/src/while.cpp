@@ -3,10 +3,11 @@
 int main(){
     std::string name;
 
-    if (name.empty()){
+    while (name.empty()){
         std::cout << "Digite seu nome: ";
-        std::cin >> name;
+        std::getline(std::cin, name);
     }
+    std::cout << "Ola " << name;
 
     return 0;
 }
