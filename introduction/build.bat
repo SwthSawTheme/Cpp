@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ src\forLoop.cpp -o bin\forLoop
-bin\forLoop.exe
+g++ src\continueBreakForLoop.cpp -o bin\continueBreakForLoop
+bin\continueBreakForLoop.exe
