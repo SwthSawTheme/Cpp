@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ src\while.cpp -o bin\while
-bin\while.exe
+g++ src\doWhile.cpp -o bin\doWhile
+bin\doWhile.exe
