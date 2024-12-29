@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ src\continueBreakForLoop.cpp -o bin\continueBreakForLoop
-bin\continueBreakForLoop.exe
+g++ src\rowAndColumns.cpp -o bin\rowAndColumns
+bin\rowAndColumns.exe
