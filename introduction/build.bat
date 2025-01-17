@@ -1,4 +1,4 @@
 @echo off
 cls
-g++ src\rowAndColumns.cpp -o bin\rowAndColumns
-bin\rowAndColumns.exe
+g++ src\forloop1.cpp -o bin\forloop1
+bin\forloop1.exe
